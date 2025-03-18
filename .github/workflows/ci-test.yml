@@ -58,4 +58,4 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ failure() }}
     steps:
-      - run: echo "Failed to build app"
+      - run: echo "Failed to build app, please debug"
