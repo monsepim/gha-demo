@@ -1,2 +1,2 @@
 # gha-demo
-Sample repo for testing GHA
+Basic sample python app for testing GHA
